@@ -82,7 +82,7 @@ Player1.hp
 
 (REPEAT FOR ALL PLAYERS)
 
-
+test1.in should print 1 2
 
 
 
