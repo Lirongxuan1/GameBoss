@@ -3,8 +3,10 @@ You are a raid boss in an MMORPG.
 
 The party before you is disorganized and toxic, so all their tanks rage quit. 
 The remaining players consist of two types, healers and damage dealers. 
-Each healer has two attributes: healing per second (hps) and health (hp)
-Each damage dealer has two attributes: Player damage per second (Pdps) and health (hp)
+
+Each healer has two key stats: healing per second (hps) and health (hp)
+
+Each damage dealer also has two key stats: Player damage per second (Pdps) and health (hp)
 
 You have one attribute: Boss damage per second (Bdps)
 
