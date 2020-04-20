@@ -1,5 +1,5 @@
 # GameBoss
-You are the boss of a boss in an MMORPG.
+You are a raid boss in an MMORPG.
 
 The party before you is disorganized and toxic, so all their tanks rage quit. 
 The remaining players consist of two types, healers and damage dealers. 
