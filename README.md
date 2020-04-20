@@ -71,11 +71,18 @@ test files incoming
 test files are configured like this:
 
 int p for number of players
+
 int Bdps
+
 Player1.id
+
 Player1.isHealer
+
 Player1.dpsorhps
+
 Player1.hp
+
+(REPEAT FOR ALL PLAYERS)
 
 
 
