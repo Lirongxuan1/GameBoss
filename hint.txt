@@ -1,1 +1,3 @@
-When no healers are involved, this problem simply devolves into a scheduling problem solved by comparing the ratios. How does this change when healers are introduced?
+When no healers are involved, this problem simply devolves into a scheduling problem solved by comparing the ratios. 
+How does this change when healers are introduced?
+Solve with paper before coding for best outcome. 
